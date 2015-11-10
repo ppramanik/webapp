@@ -1,5 +1,5 @@
 Docker Fundamentals WebApp
-foo bar
+foo bar bar
 ==========================
 
 The Docker Fundamentals repository contains the example Hello World Python WebApp
